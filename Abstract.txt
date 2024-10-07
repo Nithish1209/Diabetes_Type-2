@@ -1,0 +1,7 @@
+ This project uses today’s 5G technology to monitor condition of diabetic patients with low cost.
+ Now-a-days many peoples are suffering with diabetic disease due to work stress or unhealthy lifestyles
+ and peoples will not know about the current health condition till symptoms appear or diagnosis through
+ medical check-up and the condition of disease will be severe by that time and there is no possible way
+ to get that intimation prior. Diabetes will be of two type’s diabetes-1 and diabetes-2. Diabetes-2 require
+ hospitalization and in diabetes-1 condition we can monitor patient and alert him or doctors about his
+ current condition.
