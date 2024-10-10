@@ -8,3 +8,14 @@ The biggest strength of Python is huge collection of standard library which can 
  ● · Webscraping(like Scrapy, BeautifulSoup, Selenium)
  ● · Testframeworks
  ● · Multimedia
+SOFTWAREREQUIREMENTS
+ The functional requirements or the overall description documents include the product perspective and
+ features, operating system and operating environment, graphics requirements, design constraints and
+ user documentation.
+ The appropriation of requirements and implementation constraints gives the general overview of the
+ project in regard to what the areas of strength and deficit are and how to tackle them.
+ ● Python IDLE 3.7 version (or)
+ ● Anaconda 3.7 (or)
+ ● Jupiter (or)
+ ● Googlecolab
+ 
