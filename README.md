@@ -1,5 +1,5 @@
 <h1> Diabetes_Type-2 </h1>
-The biggest strength of Python is huge collection of standard library which can be used for the
+<pre>The biggest strength of Python is huge collection of standard library which can be used for the
  following
 ● · MachineLearning
  ● · GUIApplications (like Kivy, Tkinter, PyQt etc. )
@@ -8,6 +8,9 @@ The biggest strength of Python is huge collection of standard library which can 
  ● · Webscraping(like Scrapy, BeautifulSoup, Selenium)
  ● · Testframeworks
  ● · Multimedia
+ </pre>
+ <br>
+ <pre> 
 SOFTWAREREQUIREMENTS
  The functional requirements or the overall description documents include the product perspective and
  features, operating system and operating environment, graphics requirements, design constraints and
@@ -18,4 +21,4 @@ SOFTWAREREQUIREMENTS
  ● Anaconda 3.7 (or)
  ● Jupiter (or)
  ● Googlecolab
- 
+ </pre>
