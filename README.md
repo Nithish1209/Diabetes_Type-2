@@ -22,3 +22,4 @@ SOFTWAREREQUIREMENTS
  ● Jupiter (or)
  ● Googlecolab
  </pre>
+<img src="UML_Diagram.png">
