@@ -23,3 +23,6 @@ SOFTWAREREQUIREMENTS
  ● Googlecolab
  </pre>
 <img src="UML_Diagram.png">
+<br>
+<img src="userinterface.png">
+
