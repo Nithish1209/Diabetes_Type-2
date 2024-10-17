@@ -1,4 +1,14 @@
 <h1> Diabetes_Type-2 </h1>
+<li>
+ <h2>Team members</h2>
+ <ol>Nithish Jaligapu</ol>
+<ol>Rishitha</ol>
+<ol>Shiva kumar</ol>
+<ol>siddu</ol></li>
+
+
+
+
 <pre>The biggest strength of Python is huge collection of standard library which can be used for the
  following
 ● · MachineLearning
